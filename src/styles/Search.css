@@ -1,0 +1,25 @@
+.search-form {
+  display: inline-block;
+  margin-left: 27px;
+  position: relative;
+}
+
+.search-form__input {
+  width: 288px;
+  height: 38px;
+  border-radius: 25px;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 18px;
+  padding-left: 41px;
+  color: #828282;
+  background-color: #43484c;
+  border: none;
+  outline: none;
+}
+
+.search-form__icon {
+  position: absolute;
+  left: 13px;
+  top: 7px;
+}
